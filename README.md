@@ -7,6 +7,10 @@ Análisis integral del desempeño comercial de **Andes Retail Group** durante el
 
 **Herramientas y Habilidades:** `Tableau`, `Análisis de Datos`, `Visualización de Datos`, `Comunicación Ejecutiva`, `Storytelling con Datos (SCQA)`.
 
+![Vista General](Vista%20General.png)
+
+![Vista Detalle](Vista%20Detalle.png)
+
 ---
 
 ## Contexto del Negocio (Situación)
